@@ -138,6 +138,7 @@ shufa_pic/
 
 # sample
 samples/
+*samples*/
 massive_samples/
 ZhongHuaSong2Shufa_samples/
 
@@ -152,6 +153,8 @@ output/
 
 # font_output
 fonts_output/
+
+fonts/
 
 # generator_input
 Generator/images
